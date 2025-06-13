@@ -1,0 +1,12 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Яндекс Маркет Партнёрка</title>
+</head>
+<body>
+    <h1>Добро пожаловать в наш магазин!</h1>
+    <p>Вы можете приобрести товары по выгодным ценам на Яндекс Маркете:</p>
+    <a href="https://clck.ru/3MZyt9" target="_blank">Перейти в магазин</a>
+</body>
+</html>
